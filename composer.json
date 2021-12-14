@@ -1,0 +1,23 @@
+{
+    "name": "dartmoon/prestashop-config",
+    "description": "PrestaShop console commands simplified",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dartmoon",
+            "email": "hello@dartmoon.io",
+            "homepage": "https://dartmoon.io"
+        },
+        {
+            "name": "Alessandro Pasqualini",
+            "email": "alessandro@dartmoon.io"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Dartmoon\\Config\\": "src/"
+        }
+    }
+}
