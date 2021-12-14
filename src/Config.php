@@ -16,7 +16,7 @@ class Config
 
     public function __construct()
     {
-        $this->configFilePath = dirname(dirname(dirname(dirname(__DIR__)))) . '/config';
+        $this->configFilePath = dirname(dirname(dirname(dirname(__DIR__)))) . '/config/';
     }
 
     /**
