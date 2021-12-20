@@ -1,6 +1,6 @@
 {
     "name": "dartmoon/prestashop-config",
-    "description": "PrestaShop console commands simplified",
+    "description": "Support config files for PrestaShop",
     "type": "library",
     "license": "MIT",
     "authors": [
